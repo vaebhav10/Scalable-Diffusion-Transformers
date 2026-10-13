@@ -1,0 +1,2 @@
+data/* 
+!data/cifar_latents.pt
